@@ -2,24 +2,31 @@
     "main_modules": [
         {
             "id": 1,
+            urlPath: "wedding",
             "title": "Wedding planning",
             "desc": "Wedding plannig description here.",
             "feat_image": "https://images.pexels.com/photos/169190/pexels-photo-169190.jpeg"
         },
         {
             "id": 2,
+                        urlPath: "birthday",
+
             "title": "Birthday / Anniversary Planning",
             "desc": "Wedding plannig description here.",
             "feat_image": "https://images.pexels.com/photos/2274472/pexels-photo-2274472.jpeg"
         },
         {
             "id": 3,
+                                    urlPath: "festive",
+
             "title": "Festive Events",
             "desc": "Wedding plannig description here.",
             "feat_image": "https://images.pexels.com/photos/286965/pexels-photo-286965.jpeg"
         },
         {
             "id": 4,
+                                    urlPath: "gifts",
+
             "title": "Gifts",
             "desc": "Wedding plannig description here.",
             "feat_image": "https://images.pexels.com/photos/264787/pexels-photo-264787.jpeg"
