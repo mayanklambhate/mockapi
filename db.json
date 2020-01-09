@@ -1,71 +1,99 @@
 {
-    "main_modules": [
-        {
-            "id": 1,
-            "urlPath": "wedding",
-            "title": "Wedding planning",
-            "desc": "Wedding plannig description here.",
-            "feat_image": "https://images.pexels.com/photos/169190/pexels-photo-169190.jpeg"
-        },
-        {
-            "id": 2,
-            "urlPath": "birthday",
-            "title": "Birthday / Anniversary Planning",
-            "desc": "Wedding plannig description here.",
-            "feat_image": "https://images.pexels.com/photos/2274472/pexels-photo-2274472.jpeg"
-        },
-        {
-            "id": 3,
-            "urlPath": "festive",
-            "title": "Festive Events",
-            "desc": "Wedding plannig description here.",
-            "feat_image": "https://images.pexels.com/photos/286965/pexels-photo-286965.jpeg"
-        },
-        {
-            "id": 4,
-            "urlPath": "gifts",
-            "title": "Gifts",
-            "desc": "Wedding plannig description here.",
-            "feat_image": "https://images.pexels.com/photos/264787/pexels-photo-264787.jpeg"
-        }
-    ],
-    "testimonials": [
-        {    "name" : "Johnny Depp",
-    "message": "Loved the options on this website.",
-    "image_url": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
-    },
-         {    "name" : "Carl Johnson",
-    "message": "Loved the options on this website.",
-    "image_url": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
-    },
-         {    "name" : "Bob Thomas",
-    "message": "Loved the options on this website.",
-    "image_url": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
-    },
-     {    "name" : "Penny Blitz",
-    "message": "Loved the options on this website.",
-    "image_url": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
-    },
-     {    "name" : "Jesicca Jones",
-    "message": "Loved the options on this website.",
-    "image_url": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
-    }],
-    
-    
-     "wedding_info": {
-    "main_desc" : "We offer a spectrum of services for any occasion, whether Personal or Professional. We could plan the most romantic destination wedding straight out of a postcard or a happening social gathering.",
-    "images": [
-        {
-        "caption": "Royal wedding",
-        "src" : "https://images.pexels.com/photos/246935/pexels-photo-246935.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
-        "thumb" : "https://images.pexels.com/photos/246935/pexels-photo-246935.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
-        },
-        {
-        "caption": "Indian wedding",
-        "src": "https://images.pexels.com/photos/169190/pexels-photo-169190.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
-        "thumb": "https://images.pexels.com/photos/169190/pexels-photo-169190.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
-        }
-    ]  
-}
-    
+	"main_modules": [{
+			"id": 1,
+			"urlPath": "wedding",
+			"title": "Wedding planning",
+			"desc": "Wedding plannig description here.",
+			"feat_image": "https://images.pexels.com/photos/169190/pexels-photo-169190.jpeg"
+		},
+		{
+			"id": 2,
+			"urlPath": "birthday",
+			"title": "Birthday / Anniversary Planning",
+			"desc": "Wedding plannig description here.",
+			"feat_image": "https://images.pexels.com/photos/2274472/pexels-photo-2274472.jpeg"
+		},
+		{
+			"id": 3,
+			"urlPath": "festive",
+			"title": "Festive Events",
+			"desc": "Wedding plannig description here.",
+			"feat_image": "https://images.pexels.com/photos/286965/pexels-photo-286965.jpeg"
+		},
+		{
+			"id": 4,
+			"urlPath": "gifts",
+			"title": "Gifts",
+			"desc": "Wedding plannig description here.",
+			"feat_image": "https://images.pexels.com/photos/264787/pexels-photo-264787.jpeg"
+		}
+	],
+	"testimonials": [{
+			"name": "Johnny Depp",
+			"message": "Loved the options on this website.",
+			"image_url": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+		},
+		{
+			"name": "Carl Johnson",
+			"message": "Loved the options on this website.",
+			"image_url": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+		},
+		{
+			"name": "Bob Thomas",
+			"message": "Loved the options on this website.",
+			"image_url": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+		},
+		{
+			"name": "Penny Blitz",
+			"message": "Loved the options on this website.",
+			"image_url": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+		},
+		{
+			"name": "Jesicca Jones",
+			"message": "Loved the options on this website.",
+			"image_url": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+		}
+	],
+
+
+	"wedding_info": {
+		"main_desc": "We offer a spectrum of services for any occasion, whether Personal or Professional. We could plan the most romantic destination wedding straight out of a postcard or a happening social gathering.",
+		"images": [{
+				"caption": "Royal wedding",
+				"src": "https://images.pexels.com/photos/246935/pexels-photo-246935.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+				"thumb": "https://images.pexels.com/photos/246935/pexels-photo-246935.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+			},
+			{
+				"caption": "Indian wedding",
+				"src": "https://images.pexels.com/photos/169190/pexels-photo-169190.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+				"thumb": "https://images.pexels.com/photos/169190/pexels-photo-169190.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+			}, {
+				"caption": "Theme wedding",
+				"src": "https://www.dreamzkraft.com/admin/serviceImage/5ba0fa7f7ee41__Wedding%20Venue%20Bookings.JPG",
+				"thumb": "https://www.dreamzkraft.com/admin/serviceImage/5ba0fa7f7ee41__Wedding%20Venue%20Bookings.JPG"
+			},
+			{
+				"caption": "Budget wedding",
+				"src": "https://www.dreamzkraft.com/admin/serviceImage/5ba0faded6887__Wedding%20Decoration%20Ideas.jpg",
+				"thumb": "https://www.dreamzkraft.com/admin/serviceImage/5ba0faded6887__Wedding%20Decoration%20Ideas.jpg"
+			},
+			{
+				"caption": "Modern wedding",
+				"src": "https://images.pexels.com/photos/169190/pexels-photo-169190.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+				"thumb": "https://images.pexels.com/photos/169190/pexels-photo-169190.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+			},
+			{
+				"caption": "Royal wedding",
+				"src": "https://images.pexels.com/photos/246935/pexels-photo-246935.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+				"thumb": "https://images.pexels.com/photos/169190/pexels-photo-169190.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+			},
+			{
+				"caption": "Indian wedding",
+				"src": "https://images.pexels.com/photos/169190/pexels-photo-169190.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+				"thumb": "https://images.pexels.com/photos/169190/pexels-photo-169190.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+			}
+
+		]
+	}
+
 }
