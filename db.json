@@ -53,69 +53,17 @@
     
     
      "wedding_info": {
-        "main_desc" : "We offer a spectrum of services for any occasion, whether Personal or Professional. We could plan the most romantic destination wedding straight out of a postcard or a happening social gathering.",
+    "main_desc" : "We offer a spectrum of services for any occasion, whether Personal or Professional. We could plan the most romantic destination wedding straight out of a postcard or a happening social gathering.",
     "images": [
         {
         "caption": "Royal wedding",
-        "src" : "https://images.pexels.com/photos/246935/pexels-photo-246935.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+        "src" : "https://images.pexels.com/photos/246935/pexels-photo-246935.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
         },
         {
         "caption": "Indian wedding",
-        "src": "https://images.pexels.com/photos/169190/pexels-photo-169190.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
-        },
-        {
-        "caption": "Theme wedding",
-        "src": "https://images.pexels.com/photos/265722/pexels-photo-265722.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
-        },
-        {
-        "caption": "Budget wedding",
-        "src" :"https://images.pexels.com/photos/1779414/pexels-photo-1779414.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
-        },
-        {
-        "caption": "Modern wedding",
-        "src": "https://images.pexels.com/photos/169190/pexels-photo-169190.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
-        },
-          {
-        "caption": "Royal wedding",
-        "src" : "https://images.pexels.com/photos/246935/pexels-photo-246935.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
-        },
-        {
-        "caption": "Indian wedding",
-        "src": "https://images.pexels.com/photos/169190/pexels-photo-169190.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
-        },
-        {
-        "caption": "Theme wedding",
-        "src": "https://images.pexels.com/photos/265722/pexels-photo-265722.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
-        },
-        {
-        "caption": "Budget wedding",
-        "src" :"https://images.pexels.com/photos/1779414/pexels-photo-1779414.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
-        },
-        {
-        "caption": "Modern wedding",
-        "src": "https://images.pexels.com/photos/169190/pexels-photo-169190.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
-        },
-          {
-        "caption": "Royal wedding",
-        "src" : "https://images.pexels.com/photos/246935/pexels-photo-246935.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
-        },
-        {
-        "caption": "Indian wedding",
-        "src": "https://images.pexels.com/photos/169190/pexels-photo-169190.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
-        },
-        {
-        "caption": "Theme wedding",
-        "src": "https://images.pexels.com/photos/169192/pexels-photo-169192.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
-        },
-        {
-        "caption": "Budget wedding",
-        "src" :"https://images.pexels.com/photos/265722/pexels-photo-265722.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
-        },
-        {
-        "caption": "Modern wedding",
-        "src": "https://images.pexels.com/photos/169190/pexels-photo-169190.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+        "src": "https://images.pexels.com/photos/169190/pexels-photo-169190.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
         }
-    ]
-        
+    ]  
 }
+    
 }
