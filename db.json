@@ -57,11 +57,13 @@
     "images": [
         {
         "caption": "Royal wedding",
-        "src" : "https://images.pexels.com/photos/246935/pexels-photo-246935.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        "src" : "https://images.pexels.com/photos/246935/pexels-photo-246935.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+        "thumb" : "https://images.pexels.com/photos/246935/pexels-photo-246935.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
         },
         {
         "caption": "Indian wedding",
-        "src": "https://images.pexels.com/photos/169190/pexels-photo-169190.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        "src": "https://images.pexels.com/photos/169190/pexels-photo-169190.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+        "thumb": "https://images.pexels.com/photos/169190/pexels-photo-169190.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
         }
     ]  
 }
