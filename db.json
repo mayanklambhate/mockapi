@@ -49,6 +49,32 @@
      {    "name" : "Jesicca Jones",
     "message": "Loved the options on this website.",
     "image_url": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
-    }]
+    }],
+    
+    
+     "wedding_info": [
+        {    "main_desc" : "Johnny Depp",
+    "images": [
+        {
+        "caption": "Royal wedding",
+        "img_url" "https://images.pexels.com/photos/246935/pexels-photo-246935.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        },
+        {
+        "caption": "Indian wedding",
+        "img_url" "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        },
+        {
+        "caption": "Theme wedding",
+        "img_url" "https://images.pexels.com/photos/169192/pexels-photo-169192.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        },
+        {
+        "caption": "Budget wedding",
+        "img_url" "https://images.pexels.com/photos/1779414/pexels-photo-1779414.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        },
+        {
+        "caption": "Modern wedding",
+        "img_url" "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+        }
+    },
         
 }
