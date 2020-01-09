@@ -52,8 +52,8 @@
     }],
     
     
-     "wedding_info": [
-        {    "main_desc" : "Johnny Depp",
+     "wedding_info": {
+        "main_desc" : "Johnny Depp",
     "images": [
         {
         "caption": "Royal wedding",
@@ -77,4 +77,5 @@
         }
     ],
         
+}
 }
