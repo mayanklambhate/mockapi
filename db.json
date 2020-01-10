@@ -22,7 +22,7 @@
 		},
 		{
 			"id": 4,
-			"urlPath": "gifts",
+			"urlPath": "giftListing",
 			"title": "Gifts",
 			"desc": "Wedding plannig description here.",
 			"feat_image": "https://images.pexels.com/photos/264787/pexels-photo-264787.jpeg"
